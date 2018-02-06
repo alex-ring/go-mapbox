@@ -20,7 +20,7 @@ import (
 const (
 	apiName    = "geocoding"
 	apiVersion = "v5"
-	apiMode    = "mapbox.places"
+	apiMode    = "mapbox.places-permanent"
 )
 
 // Type defines geocode location response types
